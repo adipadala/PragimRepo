@@ -1,2 +1,3 @@
 This is from Developer 2 work space created
  in local git of developer 2
+ now changes made by dev2 at github repo
